@@ -9,17 +9,6 @@ This is a simple Java program that counts the number of words in a given input s
 - Counts the number of letters accurately.
 - Handles multiple spaces and trims input properly.
 
-## 🛠️ How to Run
-1. **Compile the Java file**:
-   ```sh
-   javac WordCount.java
-   ```
-2. **Run the program**:
-   ```sh
-   java WordCount
-   ```
-3. **Enter a sentence**, and the program will output the word count.
-
 ## 📜 Example
 ```
 Enter a sentence:
